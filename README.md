@@ -4,6 +4,8 @@
 
   ![image](https://github.com/user-attachments/assets/9d16d46d-1776-4254-9c98-f7afa89bb916)
 
+## Gerador de senha
+[Gerador de senhas](https://dannroch4.github.io/ger-senha-forte/)
 
 ## Links Úteis🚀
 
@@ -14,3 +16,5 @@
 - [Contato](mailto:technoplay.oficial@gmail.com)
 
 ## Linguagens 🚀
+
+![image](https://github.com/user-attachments/assets/78ddca7b-1271-4007-8116-6792387cb5c7)
