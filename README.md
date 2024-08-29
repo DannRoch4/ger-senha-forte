@@ -2,7 +2,8 @@
 
 - Site criado para gerar senhas fortes
 
-  ![image](https://github.com/user-attachments/assets/9d16d46d-1776-4254-9c98-f7afa89bb916)
+![image](https://github.com/user-attachments/assets/a28f1aed-e6cf-4993-91a1-295fb0c45afb)
+
 
 ## Gerador de senha
 [Gerador de senhas](https://dannroch4.github.io/ger-senha-forte/)
